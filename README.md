@@ -16,6 +16,7 @@ So now I’m diving into:
 - Agentic workflows
 - RAG systems
 - Basically trying to survive the next tech wave without becoming obsolete 💀
+- In progress, yet to push to github though lol!!
 
 ---
 
