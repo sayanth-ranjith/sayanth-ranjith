@@ -1,6 +1,7 @@
 # Hey there 👋 I'm Sayanth
 ### ☕ Java Backend Developer | 🚀 Spring Boot Enthusiast | 🤖 AI Explorer
 I'm a backend engineer who enjoys building scalable systems, designing APIs, and understanding how things work under the hood.
+I work at IBM (👁️🐝M)
 ## 🛠️ Tech Stack
 - ☕ Java
 - 🌱 Spring Boot
